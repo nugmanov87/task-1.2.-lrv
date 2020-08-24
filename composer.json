@@ -1,0 +1,11 @@
+{
+    "name": "task/composer",
+    "description": "\"Laravel\"",
+    "authors": [
+        {
+            "name": "Ruslan Nugmanov",
+            "email": "ruslan-nugmanov87@mail.ru"
+        }
+    ],
+    "require": {}
+}
